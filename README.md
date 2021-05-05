@@ -182,7 +182,7 @@ console.log(isAllUsersActive); // false
 
 
 
-###String Methods
+##String Methods
 
 
 1)charAt :The charAt() method returns the character at the specified index in a string.
